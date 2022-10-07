@@ -82,7 +82,7 @@ public class Silly implements Comparable<Silly>{
 
     /**
      * Creates a new Silly object.
-     * This constructor takes in a single int as an argument.
+     * This constructor takes in two Strings as arguments.
      *
      * @param name1 a first name for this Silly instance's name.
      * @param name2 a second name for this Silly instance's name.
